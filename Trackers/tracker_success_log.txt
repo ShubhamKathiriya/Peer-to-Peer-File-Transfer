@@ -1,0 +1,99 @@
+Successfully received port number :-  5253
+Socket creating successfully!!
+Successfully!! binding the socket
+Successfully!! listening the scoket!!
+Sucessfully!! accepted 
+Sucessfully!! accepted 
+Successfully!! read the buffer!!
+Successfully registred!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Sucessfully!! accepted 
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Sucessfully!! accepted 
+Sucessfully!! accepted 
+Successfully!! read the buffer!!
+Successfully registred!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Sucessfully logged in !!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Successfully registred!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Group with id:- aIs sucessfully created!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file uploaded!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Sucessfully logged in !!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully join request of sent to admin
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully accepted user request
+Succesfully write done!!!
+Successfully!! read the buffer!!
+All files display of group!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file downloaded deatils delivered!!!
+Succesfully write done!!!
+Sucessfully!! accepted 
+Sucessfully!! accepted 
+Successfully!! read the buffer!!
+Sucessfully logged in !!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+All files display of group!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file uploaded!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+All files display of group!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file downloaded deatils delivered!!!
+Succesfully write done!!!
+Sucessfully!! accepted 
+Sucessfully!! accepted 
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+All files display of group!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+All files display of group!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file uploaded!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+All files display of group!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file downloaded deatils delivered!!!
+Succesfully write done!!!
+Successfully!! read the buffer!!
+file uploaded!
+Succesfully write done!!!
+Sucessfully!! accepted 
+Successfully!! read the buffer!!
+file downloaded deatils delivered!!!
+Succesfully write done!!!

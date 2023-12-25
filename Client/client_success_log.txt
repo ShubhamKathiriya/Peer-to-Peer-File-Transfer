@@ -1,0 +1,19 @@
+Arguments are corrected!!
+Socket creating successfully!!
+setsockopt done successfully!!
+inet_pton done successfully!!
+Successfully!! binding the socket
+Successfully opened tracker socket at leacher side!!
+Successfully!! listening the scoket!!
+Tracker found successfully !!!
+Connection established success at leacher side!!!
+succefully seeder socket: 6 created!!
+succefully converted seeder ip !!!
+Sucessfully!! accepted 
+Client connected successfully which socket number is  4 !!!
+
+Succesfully sent response of which chunk available to the leecher : 4
+Sucessfully!! accepted 
+Client connected successfully which socket number is  6 !!!
+
+Succesfully downloaded!!!

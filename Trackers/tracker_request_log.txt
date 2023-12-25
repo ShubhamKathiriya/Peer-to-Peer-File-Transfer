@@ -1,0 +1,31 @@
+Client :-create_user asd asd
+Client :-Login 127.0.0.6 8989
+Client :-create_user asd as
+Client :-create_user qw qw
+Client :-Login qw qw 127.0.0.1 5656
+Client :-create_user 12 12
+Client :-create_group a
+Client :-upload_file a 64d396254091e3de178c4e75a23d5d4152dae718ec96b118e2a6a7cc85ae65e5 308155389 video.mp4
+Client :-Login 12 12 127.0.0.6 8989
+Client :-join_group a
+Client :-accept_request a 12
+Client :-list_files a
+Client :-download_file a video.mp4
+Client :-Login 12 12 127.0.0.6 8989
+Client :-list_files
+Client :-Login qw qw 127.0.0.1 5656
+Client :-list_files a
+Client :-upload_file a 9f1c5cc3cfea1031a0545f34fdeb62d78d48015fca7ee96d2adae548cc37a982 3771 client.cpp
+Client :-list_files
+Client :-list_files a
+Client :-download_file a client.cpp
+Client :-list_files q
+Client :-list_files a
+Client :-list_files a
+Client :-upload_file a -1 fg.cpp
+Client :-upload_file a -1 fg.cpp
+Client :-upload_file a 9f1c5cc3cfea1031a0545f34fdeb62d78d48015fca7ee96d2adae548cc37a982 3771 fg.cpp
+Client :-list_files a
+Client :-download_file a fg.cpp
+Client :-upload_file a 1ba69658416b147965741d883cd4dddbe5e631f04894887199ad3acc2d2e1d34 3774 client.cpp
+Client :-download_file a client.cpp

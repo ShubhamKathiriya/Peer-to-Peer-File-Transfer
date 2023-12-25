@@ -1,0 +1,17 @@
+Less arguments for create_user command!!
+There is an  error in reading the buffer!!!
+ALready registered!!
+There is an  error in reading the buffer!!!
+There is an  error in reading the buffer!!!
+There is an  error in reading the buffer!!!
+There is an  error in reading the buffer!!!
+Less agruments in list_files command!!
+Already Logged in same device!!!
+Less agruments in list_files command!!
+There is an  error in reading the buffer!!!
+There is an  error in reading the buffer!!!
+Group is not exist!! while requesting the pending the request group!!
+Less agruments in upload_file command!!
+Less agruments in upload_file command!!
+There is an  error in reading the buffer!!!
+There is an  error in reading the buffer!!!
