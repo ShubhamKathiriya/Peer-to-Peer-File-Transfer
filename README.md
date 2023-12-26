@@ -1,4 +1,4 @@
-# AOS ASSIGNMENT - 4
+# Mini Bittorrent - Peer to Peer group based file share
 ## Distributed File System // Peer to peer group file transfering
 
 -  Should be able to download_file​ from various peers in the network.
